@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Gusiri Pavan👋
 
 <!--
 **gusiripavan-wq/gusiripavan-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
