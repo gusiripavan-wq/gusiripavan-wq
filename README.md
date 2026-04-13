@@ -12,8 +12,10 @@
 - SQL
 
  📚 Currently Learning
-- React
-- Full Stack Development
+  - SQL
+  - Python
+  - React
+  - Full Stack Development
 
  🤝 Looking For
 - Internship opportunities  
