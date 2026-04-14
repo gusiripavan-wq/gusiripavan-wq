@@ -1,7 +1,7 @@
 👋 Hi, I'm Pavan
 
 🎯 Aspiring Full Stack Developer  
-💻 Learning HTML, CSS, JavaScript, SQL, Python  
+💻 Learning HTML, CSS, JavaScript, SQL and Python  
 🚀 Currently building beginner projects  
 
  🧠 Skills
